@@ -1,5 +1,4 @@
 fn package_memo(s: String) -> String {
-    println!("{}", &s);
     s
 }
 
